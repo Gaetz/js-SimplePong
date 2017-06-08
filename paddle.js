@@ -23,7 +23,7 @@ class Paddle {
   }
 
   /**
-   * Give the ball a return vertical spped based on pad collision's position
+   * Give the ball a vertical speed based on pad collision's position
    * @param {int} ballY Ball Y position
    */
   getBounceVerticalSpeed(ballY) {
